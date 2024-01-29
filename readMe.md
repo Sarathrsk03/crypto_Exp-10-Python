@@ -2,7 +2,7 @@ Run the following commands before executing the program
 
 mkdir [Filename]
 
-Copy the Folder's to the newly created directory
+Copy the content's to the newly created directory
 
 python3 -m venv env // Creates a new virtual python environmenmt 
 
