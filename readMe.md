@@ -4,7 +4,9 @@ mkdir [Filename]
 
 Copy the content's to the newly created directory
 
-python3 -m venv env // Creates a new virtual python environmenmt 
+python3 -m venv env // Creates a new virtual python environment 
+                or 
+python -m venv env 
 
 source venv/bin/activate // To activate the virtual python environment 
 
