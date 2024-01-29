@@ -17,3 +17,7 @@ python3 app.py // To run the Flask server
 python app.py //To run the Flask server 
 
 
+// Default port: 5000 
+
+// Go to the following URL 127.0.0.1:5000 
+
