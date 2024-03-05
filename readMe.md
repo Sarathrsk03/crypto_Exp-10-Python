@@ -23,3 +23,5 @@ python app.py //To run the Flask server
 
 // Go to the following URL 127.0.0.1:5000 
 
+Username: Your name 
+Password: 123456
