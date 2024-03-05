@@ -8,7 +8,7 @@ python3 -m venv env // Creates a new virtual python environment
                 or 
 python -m venv env 
 
-source venv/bin/activate // To activate the virtual python environment 
+source env/bin/activate // To activate the virtual python environment 
 
 which python // Used to verify whether the virtual env is currently being used 
 
